@@ -1,0 +1,110 @@
+{
+  "shortDescription": "Test your knowledge of animals with this quiz!",
+  "questions": [
+    {
+      "question": "What is the largest land animal?",
+      "answers": ["Elephant", "Giraffe", "Hippo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal is known as the 'king of the jungle'?",
+      "answers": ["Lion", "Tiger", "Leopard"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which bird can fly backward?",
+      "answers": ["Hummingbird", "Eagle", "Ostrich"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "answers": ["Cheetah", "Gazelle", "Zebra"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal can sleep up to 3 years straight?",
+      "answers": ["Snail", "Koala", "Brown Bat"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal has the longest lifespan?",
+      "answers": ["Bowhead Whale", "Galapagos Tortoise", "African Elephant"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What animal has the largest eyes relative to its body size?",
+      "answers": ["Ostrich", "Giant Squid", "Chameleon"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which animal can change its color?",
+      "answers": ["Chameleon", "Kangaroo", "Penguin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal is considered the smartest?",
+      "answers": ["Dolphin", "Octopus", "Chimpanzee"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which animal is a natural engineer, building dams and lodges?",
+      "answers": ["Beaver", "Platypus", "Otter"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the only mammal capable of true flight?",
+      "answers": ["Bat", "Flying Squirrel", "Sugar Glider"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal has the longest tongue relative to its body size?",
+      "answers": ["Anteater", "Giraffe", "Chameleon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the fastest marine animal?",
+      "answers": ["Sailfish", "Blue Whale", "Dolphin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal is known for its black and white stripes?",
+      "answers": ["Zebra", "Tiger", "Giraffe"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal is famous for playing dead when threatened?",
+      "answers": ["Opossum", "Sloth", "Armadillo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal has the best sense of smell?",
+      "answers": ["Bloodhound", "Elephant", "Shark"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the smallest mammal?",
+      "answers": ["Bumblebee Bat", "Pygmy Marmoset", "Etruscan Shrew"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal has the longest migration route?",
+      "answers": ["Arctic Tern", "Monarch Butterfly", "Salmon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What animal is known for its ability to regrow lost limbs?",
+      "answers": ["Axolotl", "Lizard", "Frog"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which animal has the most teeth?",
+      "answers": ["Snail", "Great White Shark", "Gorilla"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is the only continent where giraffes live in the wild?",
+      "answers": ["Africa", "South America", "Australia"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
